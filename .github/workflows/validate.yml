@@ -1,0 +1,30 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  offline-validation:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install validation dependencies
+        run: python -m pip install -r requirements-dev.txt
+      - name: Validate repository release structure
+        run: python scripts/validate_release.py
+      - name: Validate example figure specification
+        run: python scripts/validate_figure_spec.py assets/example-figure-spec.json
+      - name: Run offline smoke tests
+        run: python tests/smoke_test.py
+

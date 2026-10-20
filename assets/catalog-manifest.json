@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "corpus_version": 2,
+  "extractor_version": 1,
+  "generated_at": "2026-10-20T08:27:49.183414+00:00",
+  "source_ids": [
+    "pubcns-wechat-colors"
+  ],
+  "case_count": 122,
+  "style_count": 122
+}

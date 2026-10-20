@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.matplotlib-cache/
+dist/
+build/

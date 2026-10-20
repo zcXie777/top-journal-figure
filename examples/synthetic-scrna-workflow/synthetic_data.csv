@@ -1,0 +1,976 @@
+record_type,sample,group,cell_type,feature,value_1,value_2
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_001,-4.508690,1.538912
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_002,-4.454720,2.259633
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_003,-1.289882,0.230541
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_004,-2.116099,0.563646
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_005,-1.097189,-0.215727
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_006,-4.662122,1.589889
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_007,-2.925055,1.097371
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_008,-2.074666,1.134161
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_009,-2.493443,0.695725
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_010,-1.998263,1.086830
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_011,-4.957836,1.001379
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_012,-3.287971,1.225041
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_013,-2.387831,0.670182
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_014,-2.317405,1.540699
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_015,-3.681018,1.050496
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_016,-2.873270,1.743802
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_017,-2.923920,1.590182
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_018,-2.926921,2.506770
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_019,-1.739936,0.229190
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_020,-2.282518,1.594991
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_021,-1.817499,0.993582
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_022,-2.346180,0.624964
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_023,-2.130824,0.475698
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_024,-4.195151,1.143441
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_025,-2.050755,0.554408
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_026,-3.643692,1.001261
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_027,-0.679893,-0.539224
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_028,-1.045523,0.465590
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_029,-2.237415,1.182758
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_030,-3.398912,1.438480
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_031,-2.803041,0.733117
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_032,-1.006558,0.543976
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_033,-3.826149,1.034439
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_034,-2.648847,0.934933
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_035,-3.401272,1.868511
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_036,-3.081533,1.659161
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_037,-2.141386,0.971792
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_038,-2.924969,1.155702
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_039,-4.172287,1.333831
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_040,-0.711976,0.150535
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_041,-2.068194,0.867353
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_042,-3.522510,1.058801
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_043,-3.593487,1.556509
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_044,-2.518525,1.150618
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_045,-1.443385,-0.058231
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_046,-1.475124,0.224594
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_047,-2.655045,-0.040195
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_048,-4.545080,0.791228
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_049,-0.762499,0.957034
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_050,-2.278830,0.687730
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_051,-1.962963,0.490461
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_052,-2.506852,0.810676
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_053,-2.072328,1.328190
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_054,-1.518053,0.823294
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_055,-4.169566,1.384416
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_056,-4.238408,0.441044
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_057,-0.929851,0.841289
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_058,-2.604528,1.077197
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_059,-2.690487,0.855874
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_060,-2.600743,0.211228
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_061,-2.401244,0.810549
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_062,-2.958247,1.554339
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_063,-2.143628,0.842102
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_064,-2.339969,0.220923
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_065,-2.309742,0.602846
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_066,-1.530891,0.704747
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_067,-2.445607,0.882462
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_068,-1.313962,-0.349215
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_069,-2.283075,1.195754
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_070,-2.871618,0.925850
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_071,-0.986432,0.820050
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_072,-2.393309,1.533339
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_073,-1.864753,0.064035
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_074,-2.910751,1.448739
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_075,-2.749919,0.469484
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_076,-2.701906,0.706631
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_077,-3.904605,1.809310
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_078,-3.715352,1.757720
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_079,-1.125275,0.745142
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_080,-0.111890,0.164628
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_081,-3.252829,0.944851
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_082,-1.686328,0.430773
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_083,-2.818083,1.148131
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_084,-1.422465,0.358157
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_085,-3.065575,1.067574
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_086,-2.236887,0.833529
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_087,0.878176,0.729391
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_088,-1.921121,1.605722
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_089,-4.544235,0.672903
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_090,-1.949323,0.901275
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_091,-1.845612,0.604991
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_092,-4.175993,1.513542
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_093,-3.352754,0.883093
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_094,-1.728666,0.342357
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_095,-1.912504,0.458563
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_096,-1.839490,0.567488
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_097,-0.672274,0.194009
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_098,-1.901580,0.562882
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_099,-0.692046,-0.661055
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_100,-2.554392,0.977925
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_101,-4.330692,1.273362
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_102,-2.861449,1.846395
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_103,-3.249915,0.719170
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_104,-2.829653,0.572404
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_105,-1.886169,0.617588
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_106,-3.897635,1.410136
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_107,0.499686,0.001188
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_108,-1.551410,1.317891
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_109,-2.657594,0.349824
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_110,-3.101298,0.493147
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_111,-2.570724,1.123881
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_112,-4.442394,1.263523
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_113,-1.232272,0.806495
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_114,-1.762907,1.615683
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_115,-1.672643,1.267447
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_116,-3.987161,1.522182
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_117,-1.801260,1.155250
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_118,-3.375529,1.029171
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_119,-1.734627,0.566370
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_120,-0.644286,0.144766
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_121,-4.069859,1.537325
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_122,-2.186796,0.361853
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_123,-2.945855,1.163271
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_124,-2.003586,1.673001
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_125,-0.638715,0.067756
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_126,-3.014017,0.441847
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_127,-2.607688,0.240180
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_128,-2.304610,0.781474
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_129,-2.079657,1.567292
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_130,-2.455662,1.447453
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_131,-4.218040,1.152714
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_132,-3.637851,1.551542
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_133,-0.754537,0.161189
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_134,-3.220812,0.340782
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_135,-3.274152,0.456477
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_136,-2.395337,0.868797
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_137,-2.551430,0.587997
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_138,-3.362987,1.175054
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_139,-1.680795,1.257270
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_140,-2.120423,1.260611
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_141,-2.402448,0.557448
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_142,-2.250033,1.166817
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_143,-1.696729,1.034701
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_144,-3.234105,0.511433
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_145,-2.799419,0.711603
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_146,-2.903120,1.121029
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_147,-2.179132,0.679772
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_148,-1.934813,1.057859
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_149,-2.711661,0.424596
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_150,-2.902869,1.453557
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_151,-1.880254,0.819100
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_152,-4.138340,1.116663
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_153,-2.662550,1.028678
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_154,-4.286738,1.518652
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_155,-2.811300,0.409855
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_156,-2.915556,1.251808
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_157,-2.311655,1.182277
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_158,-3.205543,1.702255
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_159,-2.373936,0.838523
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_160,-5.305917,0.966487
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_161,-1.727508,0.015931
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_162,-5.467077,1.634375
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_163,-2.096759,1.001468
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_164,-3.055518,0.832631
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_165,-0.797041,0.389841
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_166,-4.611563,1.041586
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_167,-2.761917,1.468198
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_168,-2.718760,0.778261
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_169,-2.068361,0.322583
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_170,-1.831348,1.018339
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_171,-3.904968,1.480038
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_172,-2.214410,1.130868
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_173,-1.875482,0.324708
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_174,-3.074295,0.804550
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_175,-2.387712,0.850812
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_176,-1.281362,0.606127
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_177,-4.187651,0.524676
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_178,-2.070681,0.829232
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_179,-2.615322,1.014309
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_180,-2.327279,0.785637
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_181,-2.144026,1.187780
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_182,-3.555270,0.989856
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_183,-4.919272,1.211727
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_184,-1.545563,0.645058
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_185,-2.659228,0.578826
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_186,-3.587228,0.353841
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_187,-4.746436,0.216589
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_188,-2.330842,1.144821
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_189,-2.038814,0.329112
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_190,-2.527076,0.531120
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_191,-2.447240,0.198143
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_192,-1.131681,0.162022
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_193,-1.434169,0.466764
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_194,-2.504946,0.375481
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_195,-1.369310,0.186659
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_196,-4.557450,1.260087
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_197,-1.387781,0.631318
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_198,-4.864877,1.407948
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_199,-1.909663,1.670291
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_200,-1.884161,1.276842
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_201,-2.493096,0.611856
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_202,-4.162294,0.659263
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_203,-1.982698,1.098478
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_204,-1.640875,1.043024
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_205,-2.331322,1.053492
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_206,-1.696106,0.682595
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_207,-2.828132,1.531889
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_208,-3.901870,1.083698
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_209,-1.906433,0.459969
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_210,-4.287379,1.050717
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_211,-1.593263,0.083518
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_212,-1.587776,0.469996
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_213,-3.635138,0.699889
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_214,-1.506018,0.379059
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_215,-4.103689,1.645338
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_216,-3.785271,1.533485
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_217,-3.472376,0.963824
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_218,-1.771773,0.510495
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_219,-2.417306,1.258263
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_220,-2.688721,0.786474
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_221,-4.518231,1.342448
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_222,-2.790899,1.594298
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_223,-3.733124,1.676088
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_224,-2.316346,0.299121
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_225,-3.395043,1.434775
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_226,-1.834001,0.451845
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_227,-1.469993,0.704937
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_228,-3.635215,1.415308
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_229,-0.988966,0.402150
+cell,synthetic_pool,illustrative,T cell,cell_t_cell_230,-2.478788,0.922285
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_001,-1.100441,2.687613
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_002,-0.254513,2.687420
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_003,-0.291856,2.088172
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_004,-0.829400,2.244173
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_005,-0.580429,2.130793
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_006,-1.834681,1.920052
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_007,0.541236,1.825558
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_008,-1.224663,2.414619
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_009,-1.427783,1.965118
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_010,-0.585381,1.523359
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_011,-0.376677,1.885998
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_012,-0.569801,2.076045
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_013,-0.534826,1.616363
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_014,-0.018749,2.144100
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_015,-1.392324,2.227910
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_016,-0.351263,2.056265
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_017,-0.786988,1.955172
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_018,-0.092580,2.231966
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_019,-2.111888,2.036010
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_020,-1.268699,0.684953
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_021,-0.542786,2.159139
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_022,-0.628296,2.274659
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_023,-0.342982,2.606605
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_024,-1.192329,1.498341
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_025,-0.637924,2.444703
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_026,-0.574912,2.847952
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_027,-1.303756,1.797432
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_028,-0.980386,1.775783
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_029,-0.338011,1.543134
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_030,-0.096516,2.830794
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_031,-0.607460,3.033911
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_032,-1.545208,2.127434
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_033,0.197555,2.826502
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_034,-1.271002,1.961195
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_035,0.326594,2.782093
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_036,-0.896133,2.195356
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_037,-1.258875,1.916865
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_038,-1.308747,1.672021
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_039,-1.942135,1.943737
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_040,-1.915677,2.169572
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_041,-0.056541,2.519666
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_042,-1.227555,1.831756
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_043,-1.179754,2.022067
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_044,-2.141423,1.932124
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_045,-0.248586,2.445267
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_046,-0.289759,2.019051
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_047,-0.767424,2.439167
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_048,-0.654429,2.665364
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_049,-0.343613,2.745100
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_050,-0.784996,1.801306
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_051,-0.617126,2.293322
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_052,-0.286973,3.136119
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_053,-0.226679,2.091251
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_054,-0.345940,1.786828
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_055,0.312425,3.322932
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_056,-0.397295,2.675011
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_057,-0.907341,1.886721
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_058,-0.908473,1.522107
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_059,-0.441692,2.450160
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_060,-1.192974,2.780933
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_061,-0.447659,2.206153
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_062,-1.178361,2.016523
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_063,-0.522656,2.548466
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_064,-2.039757,1.537925
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_065,-0.243025,2.174099
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_066,-1.525727,1.818861
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_067,0.653989,3.293164
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_068,-0.681463,2.825519
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_069,-1.308422,2.039704
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_070,-1.299896,1.596264
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_071,-1.192737,1.794904
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_072,-0.333337,2.208517
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_073,-0.517117,2.685920
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_074,-1.131729,2.533989
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_075,-1.153168,1.908881
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_076,-0.607471,2.835492
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_077,-1.264903,2.065252
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_078,-0.669034,2.818865
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_079,-0.240089,1.917319
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_080,-0.980718,2.357440
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_081,-0.108435,2.749161
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_082,-0.960920,2.916124
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_083,-1.288064,1.771015
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_084,0.067618,2.992915
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_085,-0.665284,2.152645
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_086,-0.455520,2.268076
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_087,-1.449510,1.445340
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_088,-1.638993,2.009764
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_089,-0.440105,2.068403
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_090,-0.575808,2.299592
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_091,-1.166021,1.501490
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_092,-1.558576,1.591042
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_093,-1.667604,1.868853
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_094,-0.671055,2.713660
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_095,-0.662465,1.948822
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_096,-1.675758,1.963253
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_097,-0.390602,2.882599
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_098,-0.774483,2.171076
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_099,-0.747399,2.288459
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_100,-1.211671,2.094660
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_101,-1.505009,1.513337
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_102,-0.070792,2.546478
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_103,-0.535842,2.432865
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_104,-0.842665,1.944229
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_105,-1.373366,1.939503
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_106,-1.858549,2.618124
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_107,-0.330965,2.919260
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_108,-1.639757,2.185797
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_109,0.532702,3.011473
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_110,-0.629525,1.701924
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_111,-1.382835,1.078723
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_112,-0.591786,2.122856
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_113,0.665253,1.762293
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_114,-1.257777,2.107283
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_115,-0.199590,2.355102
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_116,0.403087,1.607089
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_117,-0.675309,2.497523
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_118,-0.749445,2.086284
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_119,-1.792355,1.619970
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_120,-1.164157,1.913816
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_121,-0.241354,2.719458
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_122,-0.702198,2.441294
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_123,-1.103665,2.147319
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_124,-0.966905,1.297932
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_125,0.348322,2.167934
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_126,-1.104139,2.072603
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_127,-1.173765,2.394878
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_128,-0.210366,2.759639
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_129,0.133392,2.859405
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_130,-1.286110,3.057655
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_131,-1.880843,2.612950
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_132,-1.422494,1.683573
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_133,-1.016281,1.537370
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_134,-0.498226,2.338421
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_135,-0.317418,2.504951
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_136,-0.569246,2.321194
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_137,-1.427113,2.745000
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_138,-1.362697,1.442899
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_139,-1.024211,2.062856
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_140,-1.271898,2.014429
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_141,-0.079345,2.119897
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_142,-0.552069,2.661207
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_143,-0.312447,2.185873
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_144,-0.681129,2.469388
+cell,synthetic_pool,illustrative,B cell,cell_b_cell_145,-2.009556,1.094537
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_001,0.169657,0.055195
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_002,1.210375,1.246256
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_003,0.987656,1.564828
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_004,1.038047,0.676118
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_005,1.974548,0.836960
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_006,1.456546,0.248848
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_007,1.440127,0.290545
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_008,2.388171,0.809729
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_009,2.095441,0.782752
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_010,0.489127,1.510450
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_011,2.013002,0.470836
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_012,1.618815,0.391840
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_013,2.362883,-0.518332
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_014,0.414796,0.991121
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_015,1.730087,0.543084
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_016,1.887271,0.840907
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_017,1.355959,0.353968
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_018,-0.024308,0.661246
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_019,-0.335826,0.475277
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_020,0.947055,0.795835
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_021,0.710008,1.412906
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_022,0.923591,0.719641
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_023,1.325328,0.140390
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_024,1.016769,0.374031
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_025,1.340996,0.612736
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_026,0.993726,1.003243
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_027,2.270564,0.569475
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_028,1.708454,0.860436
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_029,1.757526,0.600557
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_030,0.867816,0.914195
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_031,1.837689,0.417219
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_032,1.817409,-0.009847
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_033,-0.187917,1.171639
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_034,-0.453365,1.631055
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_035,1.173912,1.004465
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_036,1.325527,0.972429
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_037,1.774380,0.615780
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_038,0.169892,1.080732
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_039,0.682674,0.957586
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_040,0.389083,0.583515
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_041,3.173810,0.135235
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_042,1.691058,0.731330
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_043,1.269733,0.016855
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_044,2.176437,0.420601
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_045,0.331196,0.805852
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_046,1.229217,1.065676
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_047,0.753644,0.982120
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_048,1.157661,0.990363
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_049,1.125811,0.789385
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_050,1.688083,0.242459
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_051,0.780507,1.050730
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_052,2.308511,0.093862
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_053,0.653515,1.602524
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_054,0.952987,1.262029
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_055,1.036417,-0.504110
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_056,2.447673,0.414081
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_057,1.331648,0.920179
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_058,2.185902,-0.035002
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_059,1.623972,0.410916
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_060,0.789120,0.622068
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_061,1.554352,0.643217
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_062,1.906430,1.223605
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_063,2.090178,0.861497
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_064,0.857558,0.797225
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_065,1.779466,0.979052
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_066,0.427129,0.954559
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_067,1.711755,-0.446579
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_068,1.707233,0.477269
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_069,1.836286,0.803709
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_070,3.259850,0.332402
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_071,-0.059174,0.401392
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_072,-0.158522,1.373743
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_073,-0.306141,0.459801
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_074,1.230034,1.079322
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_075,0.999936,1.528486
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_076,1.379469,1.520865
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_077,-0.318492,1.653275
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_078,1.935294,0.947279
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_079,-0.308348,1.746606
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_080,0.020041,0.211345
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_081,-0.355102,2.591482
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_082,0.105958,2.090856
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_083,1.811425,-0.130404
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_084,1.231319,1.677420
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_085,0.218434,0.632125
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_086,1.688733,1.535913
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_087,2.961827,0.293885
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_088,1.606779,0.672762
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_089,1.855305,0.721801
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_090,1.548565,0.635686
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_091,0.770573,0.764519
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_092,2.157670,1.136341
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_093,1.298611,1.194695
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_094,1.228670,0.715405
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_095,0.939284,1.246263
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_096,0.268554,1.773465
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_097,1.355367,1.115874
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_098,0.017364,2.008399
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_099,0.842591,0.757902
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_100,2.133459,0.728157
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_101,2.063241,0.425883
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_102,2.463107,1.003261
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_103,1.125428,1.779521
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_104,2.335290,0.549805
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_105,1.703319,1.024238
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_106,1.927960,0.463713
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_107,1.099391,0.938322
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_108,0.648773,1.332222
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_109,1.397965,1.974005
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_110,1.762446,0.684663
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_111,1.422995,-0.346727
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_112,2.017113,0.425746
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_113,0.026613,0.174202
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_114,2.058499,0.724043
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_115,1.426154,-0.034658
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_116,0.839748,1.293929
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_117,1.752988,0.946863
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_118,0.908873,0.793288
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_119,0.903118,0.353702
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_120,1.954546,0.036458
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_121,0.662986,1.316238
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_122,1.371237,0.974650
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_123,0.497836,0.952011
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_124,2.750968,0.135077
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_125,1.753345,1.346499
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_126,1.056443,1.695278
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_127,1.853874,0.241209
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_128,2.053552,-0.214957
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_129,0.779363,-0.156509
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_130,0.961106,2.093031
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_131,0.826276,1.205484
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_132,0.113253,1.594923
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_133,1.840695,1.055170
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_134,1.369896,0.786526
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_135,1.297495,0.970012
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_136,0.094599,0.816811
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_137,1.512992,0.180784
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_138,1.365941,0.709241
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_139,1.335561,1.152816
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_140,2.186653,-0.058991
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_141,1.786423,-0.045204
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_142,1.649682,0.828628
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_143,-0.240741,1.693967
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_144,0.779453,1.775789
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_145,2.417095,0.176608
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_146,0.531221,0.908221
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_147,2.139776,0.899676
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_148,0.579445,0.512233
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_149,1.558821,-0.850535
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_150,-0.705157,1.949304
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_151,0.696618,0.926101
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_152,-0.625079,1.117259
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_153,1.292986,0.383391
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_154,0.184780,1.439077
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_155,0.727944,1.176202
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_156,1.013634,-0.064592
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_157,1.724156,0.308218
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_158,1.041176,0.384226
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_159,1.691153,1.327119
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_160,1.351398,0.164910
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_161,2.013142,-0.509841
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_162,0.823170,1.051448
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_163,0.335990,1.378150
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_164,2.134179,0.705228
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_165,0.236761,1.907624
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_166,1.211545,1.035106
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_167,0.567950,1.679058
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_168,2.020863,0.149165
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_169,0.862352,2.023551
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_170,0.736735,0.561911
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_171,0.905093,0.564008
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_172,1.598449,0.300870
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_173,2.351303,0.702687
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_174,2.492008,0.906017
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_175,2.190956,-0.012400
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_176,1.912051,0.458241
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_177,2.034466,0.235326
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_178,0.945000,0.728142
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_179,1.556391,0.296618
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_180,-0.757390,1.415348
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_181,1.034029,1.471334
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_182,2.454303,1.109270
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_183,0.298861,0.914674
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_184,1.930851,0.926963
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_185,1.859254,0.756157
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_186,0.362718,0.872309
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_187,0.520410,0.893550
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_188,2.561071,0.904903
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_189,0.820660,1.976408
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_190,1.626809,0.780815
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_191,1.927455,1.013609
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_192,1.658202,1.320341
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_193,1.567912,0.863389
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_194,1.919451,0.650787
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_195,-0.200458,0.451829
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_196,0.799469,0.058945
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_197,1.983435,0.006095
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_198,2.741041,0.684585
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_199,0.030706,1.682221
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_200,1.197260,0.856528
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_201,1.015253,0.351416
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_202,1.524162,1.101370
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_203,2.107631,0.400926
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_204,1.509419,1.895774
+cell,synthetic_pool,illustrative,Myeloid,cell_myeloid_205,1.327112,1.061421
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_001,2.073093,-1.831476
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_002,2.831463,-1.610165
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_003,1.774445,-1.601312
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_004,1.023826,-2.041622
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_005,1.597797,-1.844099
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_006,2.189686,-0.946836
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_007,2.699675,-0.664551
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_008,1.438935,-2.054009
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_009,2.332296,-1.381556
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_010,2.117715,-0.865270
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_011,3.203208,-0.738740
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_012,2.742908,-1.762879
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_013,2.772700,-1.462977
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_014,2.612678,-2.038026
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_015,3.000337,-0.899746
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_016,3.994038,-1.188786
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_017,2.817686,-1.536835
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_018,3.020606,-1.325224
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_019,2.167275,-1.487092
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_020,2.520768,-1.855332
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_021,2.504953,-1.260473
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_022,1.630257,-1.822809
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_023,2.961436,-1.295326
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_024,2.208306,-1.363547
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_025,3.345529,-1.802238
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_026,1.542146,-1.321883
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_027,3.110858,-1.617248
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_028,1.452643,-1.608977
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_029,1.106521,-2.070840
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_030,1.947671,-1.977278
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_031,1.985963,-0.999019
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_032,2.813176,-1.074874
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_033,2.200614,-1.355711
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_034,2.219103,-1.298094
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_035,1.577647,-1.777344
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_036,2.684132,-1.704982
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_037,2.929074,-1.680678
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_038,1.478884,-1.765010
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_039,2.616355,-1.629521
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_040,3.487412,-1.044401
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_041,2.243446,-1.784954
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_042,2.704078,-1.545098
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_043,2.323871,-2.147043
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_044,2.508630,-1.311383
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_045,2.539857,-2.111312
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_046,1.872858,-1.266632
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_047,1.801532,-1.807899
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_048,2.103859,-1.668034
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_049,2.936711,-1.294725
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_050,2.189231,-1.881141
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_051,1.965312,-1.351189
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_052,1.400097,-1.237455
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_053,2.088964,-1.735217
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_054,1.146795,-1.689947
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_055,1.812662,-1.518785
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_056,2.060486,-1.407978
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_057,2.519492,-1.206890
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_058,3.442681,-1.107774
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_059,2.581858,-1.239689
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_060,3.588992,-1.042883
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_061,2.148783,-0.865084
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_062,2.460678,-1.877735
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_063,3.352447,-1.649542
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_064,1.646822,-1.296225
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_065,2.556935,-1.905606
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_066,1.763786,-2.167516
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_067,2.989472,-1.511055
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_068,1.562622,-1.708360
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_069,2.988069,-1.491198
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_070,1.237960,-1.890981
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_071,2.346296,-1.551746
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_072,2.483133,-2.341381
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_073,2.721001,-1.976689
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_074,2.072324,-1.822212
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_075,2.283981,-1.667276
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_076,1.804386,-1.867699
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_077,2.094025,-1.810727
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_078,2.503100,-1.632966
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_079,2.842996,-1.802994
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_080,3.218955,-1.364315
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_081,3.147354,-1.217026
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_082,2.195632,-1.324459
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_083,2.084563,-1.743635
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_084,2.161320,-1.689137
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_085,1.854996,-1.403354
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_086,2.754058,-1.060232
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_087,1.248651,-1.747851
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_088,3.048222,-0.822042
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_089,3.983480,-0.836338
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_090,1.578164,-1.906218
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_091,1.588573,-1.620077
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_092,2.305994,-1.448724
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_093,2.104199,-1.744957
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_094,2.110228,-1.658565
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_095,2.113090,-2.175914
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_096,1.942188,-1.208573
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_097,2.614165,-1.420418
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_098,2.079904,-1.636045
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_099,2.713281,-1.367244
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_100,2.366411,-2.161144
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_101,3.339693,-1.430529
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_102,2.559043,-1.037898
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_103,2.870009,-1.806993
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_104,2.281988,-2.223438
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_105,2.994211,-0.831931
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_106,2.203488,-2.016711
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_107,2.493782,-1.608860
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_108,2.156557,-1.407334
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_109,1.841493,-1.628416
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_110,1.768836,-1.762573
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_111,2.973153,-1.735238
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_112,2.091576,-1.595793
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_113,2.762599,-1.496179
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_114,2.158795,-0.851411
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_115,3.110324,-1.997668
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_116,3.415867,-1.172892
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_117,2.323834,-1.792866
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_118,2.711258,-1.424422
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_119,2.822804,-2.077338
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_120,2.871508,-2.490093
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_121,3.048096,-1.129611
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_122,1.679004,-2.395438
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_123,2.552639,-1.018948
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_124,1.795411,-1.024747
+cell,synthetic_pool,illustrative,Stromal,cell_stromal_125,2.828756,-1.192228
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_001,-0.216383,-0.712604
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_002,-0.925028,-2.010342
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_003,-1.180413,-1.507727
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_004,-0.634211,-2.620176
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_005,-0.491865,-0.799265
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_006,-0.728020,-0.539534
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_007,-0.126080,-1.765598
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_008,-0.506632,-1.057843
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_009,0.284794,-0.416615
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_010,-0.112332,-0.539419
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_011,-0.062325,-1.306303
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_012,-1.239535,-1.293429
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_013,-0.819431,-1.943210
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_014,-0.927321,-1.459092
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_015,-0.655526,-0.911891
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_016,0.431002,-0.790232
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_017,-1.756957,-1.752473
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_018,0.164797,-0.871770
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_019,-0.907992,-1.542938
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_020,-1.004391,-1.544254
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_021,-0.823581,-1.587585
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_022,-0.387399,-1.250156
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_023,-0.138056,-0.695687
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_024,-1.365543,-1.060917
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_025,-0.469978,-0.709563
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_026,0.293834,-1.070748
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_027,-1.764126,-2.346458
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_028,-1.733908,-1.768930
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_029,-1.753947,-2.769869
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_030,-0.347566,-1.720120
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_031,-1.019334,-2.133353
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_032,-0.364539,-1.026408
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_033,-0.616736,-2.025825
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_034,-2.285145,-3.150150
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_035,-1.277951,-1.402865
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_036,-0.484060,-1.325673
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_037,-3.003746,-2.833346
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_038,-1.616780,-1.942045
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_039,-0.206947,-0.822620
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_040,-0.015474,-1.484626
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_041,-0.853499,-1.257377
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_042,1.185530,-1.138494
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_043,0.326490,-0.710068
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_044,-0.584939,-1.121684
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_045,1.179359,-0.388837
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_046,-0.578564,-1.515086
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_047,-0.011323,-2.253009
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_048,0.388323,-0.635354
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_049,-0.933193,-1.228309
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_050,-0.803232,-2.276154
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_051,-0.699979,-2.010178
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_052,-0.278648,-2.656586
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_053,-0.468917,-1.495597
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_054,-2.326426,-1.594675
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_055,-0.734670,-1.476116
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_056,-1.762422,-1.877459
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_057,-1.360903,-2.121813
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_058,-0.931205,-1.363443
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_059,-0.891469,-1.719229
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_060,-0.840102,-0.652697
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_061,-0.527076,-1.421963
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_062,-0.077772,-1.561023
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_063,-0.790880,-1.425787
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_064,-0.397046,-1.687084
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_065,-2.192089,-2.330608
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_066,-0.705635,-1.741549
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_067,0.794902,-0.809886
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_068,-2.534735,-2.014311
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_069,-0.725666,-1.444598
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_070,-1.035177,-0.937681
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_071,-0.977626,-1.723230
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_072,-0.718267,-1.435764
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_073,-0.055736,-1.064337
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_074,-0.303977,-0.464158
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_075,-0.853775,-1.464579
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_076,-1.260324,-2.104401
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_077,-2.117458,-2.371742
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_078,0.427687,-0.879769
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_079,-2.310511,-1.994714
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_080,0.256768,-1.568864
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_081,0.122398,-0.631354
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_082,-1.819079,-1.620504
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_083,-0.264093,-0.564192
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_084,0.879498,-0.700063
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_085,-0.740281,-1.320812
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_086,-0.386895,-1.433290
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_087,-0.334004,-1.952661
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_088,-1.607042,-2.544082
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_089,-0.884660,-1.219974
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_090,-1.190477,-1.249806
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_091,-1.263373,-1.126406
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_092,-0.830241,-1.356084
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_093,-0.994530,-1.087341
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_094,-0.242568,-1.364900
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_095,-0.797659,-1.181266
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_096,-2.226732,-2.830191
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_097,0.483482,-1.238634
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_098,-0.239881,-1.439714
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_099,-0.648586,-1.147194
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_100,-1.799725,-1.714692
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_101,-0.686898,-2.222483
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_102,-1.624466,-2.368065
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_103,0.082421,-0.753064
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_104,-2.504541,-1.952443
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_105,-1.885978,-2.805376
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_106,-0.796867,-1.304223
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_107,-0.568965,-1.731780
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_108,-1.175515,-1.665151
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_109,0.075273,-1.229089
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_110,-0.443431,-0.416023
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_111,-2.830270,-2.357930
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_112,-0.144710,-1.516244
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_113,0.464606,-1.065736
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_114,-0.323876,-1.571641
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_115,-0.431885,-1.140278
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_116,0.299501,-1.026876
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_117,-0.829038,-2.131667
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_118,-0.078421,-0.900528
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_119,-0.754395,-1.304306
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_120,-1.071885,-0.857541
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_121,0.338229,-0.787062
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_122,-1.899788,-1.156830
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_123,-0.613695,-0.742312
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_124,0.347780,-0.574938
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_125,-0.458703,-1.265708
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_126,-0.860102,-1.140445
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_127,-0.176798,-0.546309
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_128,-0.670695,-2.201021
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_129,0.112975,-1.049653
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_130,0.132599,-1.040176
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_131,0.093559,-0.056600
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_132,-0.406192,-2.300936
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_133,0.066212,-1.365351
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_134,-0.908711,-1.540129
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_135,-0.294621,-2.154392
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_136,-1.342837,-1.387333
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_137,-0.339228,-2.131245
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_138,0.022048,-0.921891
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_139,-1.354777,-2.143638
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_140,-0.697065,-1.242077
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_141,-0.066903,-1.092655
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_142,-1.184178,-1.410089
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_143,-1.368087,-2.019249
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_144,-0.910012,-1.806699
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_145,-1.633017,-2.163565
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_146,-0.934776,-1.868664
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_147,-0.205447,-1.754249
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_148,-1.996116,-2.083508
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_149,0.178812,-0.677968
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_150,-0.589595,-1.469153
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_151,-1.883293,-1.395809
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_152,-1.374576,-2.184810
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_153,-0.684829,-1.001071
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_154,-1.006800,-1.335145
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_155,-1.337175,-1.855292
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_156,0.579889,-0.202633
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_157,0.027377,-1.421964
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_158,0.182909,-0.250130
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_159,0.464968,-0.213387
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_160,-1.344362,-1.095194
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_161,-0.384632,-1.272743
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_162,-1.479413,-1.950167
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_163,-0.636146,-1.649659
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_164,-0.861272,-0.944429
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_165,-1.522100,-1.643431
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_166,-0.645670,-0.953658
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_167,-0.876129,-1.377340
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_168,0.069278,-1.613208
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_169,-0.514332,-1.749595
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_170,-1.072400,-1.589798
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_171,0.110481,-0.333527
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_172,-0.319424,-1.803519
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_173,-0.871669,0.044372
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_174,-0.644925,-1.533667
+cell,synthetic_pool,illustrative,Epithelial,cell_epithelial_175,-0.250635,-1.392712
+expression,synthetic_pool,illustrative,T cell,CD3D,2.842433,
+expression,synthetic_pool,illustrative,T cell,MS4A1,0.291044,
+expression,synthetic_pool,illustrative,T cell,LYZ,0.263358,
+expression,synthetic_pool,illustrative,T cell,COL1A1,0.085709,
+expression,synthetic_pool,illustrative,T cell,EPCAM,0.030588,
+expression,synthetic_pool,illustrative,T cell,MKI67,0.836830,
+expression,synthetic_pool,illustrative,T cell,IFITM3,1.061848,
+expression,synthetic_pool,illustrative,B cell,CD3D,0.041582,
+expression,synthetic_pool,illustrative,B cell,MS4A1,2.722014,
+expression,synthetic_pool,illustrative,B cell,LYZ,0.271974,
+expression,synthetic_pool,illustrative,B cell,COL1A1,0.261062,
+expression,synthetic_pool,illustrative,B cell,EPCAM,0.119947,
+expression,synthetic_pool,illustrative,B cell,MKI67,0.561745,
+expression,synthetic_pool,illustrative,B cell,IFITM3,0.899577,
+expression,synthetic_pool,illustrative,Myeloid,CD3D,0.038881,
+expression,synthetic_pool,illustrative,Myeloid,MS4A1,0.280301,
+expression,synthetic_pool,illustrative,Myeloid,LYZ,2.849169,
+expression,synthetic_pool,illustrative,Myeloid,COL1A1,0.341257,
+expression,synthetic_pool,illustrative,Myeloid,EPCAM,0.077728,
+expression,synthetic_pool,illustrative,Myeloid,MKI67,0.487344,
+expression,synthetic_pool,illustrative,Myeloid,IFITM3,1.600604,
+expression,synthetic_pool,illustrative,Stromal,CD3D,0.068295,
+expression,synthetic_pool,illustrative,Stromal,MS4A1,0.000000,
+expression,synthetic_pool,illustrative,Stromal,LYZ,0.528477,
+expression,synthetic_pool,illustrative,Stromal,COL1A1,2.756914,
+expression,synthetic_pool,illustrative,Stromal,EPCAM,0.177307,
+expression,synthetic_pool,illustrative,Stromal,MKI67,0.582205,
+expression,synthetic_pool,illustrative,Stromal,IFITM3,0.929829,
+expression,synthetic_pool,illustrative,Epithelial,CD3D,0.160227,
+expression,synthetic_pool,illustrative,Epithelial,MS4A1,0.219509,
+expression,synthetic_pool,illustrative,Epithelial,LYZ,0.450067,
+expression,synthetic_pool,illustrative,Epithelial,COL1A1,0.270023,
+expression,synthetic_pool,illustrative,Epithelial,EPCAM,2.957786,
+expression,synthetic_pool,illustrative,Epithelial,MKI67,0.982850,
+expression,synthetic_pool,illustrative,Epithelial,IFITM3,0.754370,
+composition,C1,Control,T cell,fraction,0.355766,
+composition,C1,Control,B cell,fraction,0.231536,
+composition,C1,Control,Myeloid,fraction,0.203197,
+composition,C1,Control,Stromal,fraction,0.102517,
+composition,C1,Control,Epithelial,fraction,0.106983,
+composition,C2,Control,T cell,fraction,0.290867,
+composition,C2,Control,B cell,fraction,0.143575,
+composition,C2,Control,Myeloid,fraction,0.186674,
+composition,C2,Control,Stromal,fraction,0.233734,
+composition,C2,Control,Epithelial,fraction,0.145149,
+composition,C3,Control,T cell,fraction,0.301527,
+composition,C3,Control,B cell,fraction,0.165296,
+composition,C3,Control,Myeloid,fraction,0.273039,
+composition,C3,Control,Stromal,fraction,0.111029,
+composition,C3,Control,Epithelial,fraction,0.149110,
+composition,C4,Control,T cell,fraction,0.422948,
+composition,C4,Control,B cell,fraction,0.138690,
+composition,C4,Control,Myeloid,fraction,0.185868,
+composition,C4,Control,Stromal,fraction,0.093934,
+composition,C4,Control,Epithelial,fraction,0.158560,
+composition,C5,Control,T cell,fraction,0.272379,
+composition,C5,Control,B cell,fraction,0.144742,
+composition,C5,Control,Myeloid,fraction,0.195143,
+composition,C5,Control,Stromal,fraction,0.178364,
+composition,C5,Control,Epithelial,fraction,0.209371,
+composition,C6,Control,T cell,fraction,0.320919,
+composition,C6,Control,B cell,fraction,0.277898,
+composition,C6,Control,Myeloid,fraction,0.132220,
+composition,C6,Control,Stromal,fraction,0.148659,
+composition,C6,Control,Epithelial,fraction,0.120304,
+composition,T1,Treatment,T cell,fraction,0.458974,
+composition,T1,Treatment,B cell,fraction,0.135984,
+composition,T1,Treatment,Myeloid,fraction,0.089661,
+composition,T1,Treatment,Stromal,fraction,0.173154,
+composition,T1,Treatment,Epithelial,fraction,0.142227,
+composition,T2,Treatment,T cell,fraction,0.464615,
+composition,T2,Treatment,B cell,fraction,0.219699,
+composition,T2,Treatment,Myeloid,fraction,0.142120,
+composition,T2,Treatment,Stromal,fraction,0.074046,
+composition,T2,Treatment,Epithelial,fraction,0.099521,
+composition,T3,Treatment,T cell,fraction,0.434071,
+composition,T3,Treatment,B cell,fraction,0.173042,
+composition,T3,Treatment,Myeloid,fraction,0.145395,
+composition,T3,Treatment,Stromal,fraction,0.133561,
+composition,T3,Treatment,Epithelial,fraction,0.113932,
+composition,T4,Treatment,T cell,fraction,0.447076,
+composition,T4,Treatment,B cell,fraction,0.199575,
+composition,T4,Treatment,Myeloid,fraction,0.131561,
+composition,T4,Treatment,Stromal,fraction,0.085416,
+composition,T4,Treatment,Epithelial,fraction,0.136373,
+composition,T5,Treatment,T cell,fraction,0.440358,
+composition,T5,Treatment,B cell,fraction,0.180555,
+composition,T5,Treatment,Myeloid,fraction,0.127769,
+composition,T5,Treatment,Stromal,fraction,0.115301,
+composition,T5,Treatment,Epithelial,fraction,0.136017,
+composition,T6,Treatment,T cell,fraction,0.470110,
+composition,T6,Treatment,B cell,fraction,0.124162,
+composition,T6,Treatment,Myeloid,fraction,0.125179,
+composition,T6,Treatment,Stromal,fraction,0.054719,
+composition,T6,Treatment,Epithelial,fraction,0.225830,

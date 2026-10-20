@@ -1,0 +1,58 @@
+[
+  {
+    "id": "comparison-raw-summary",
+    "goals": ["compare", "distribution"],
+    "families": ["quantitative plot", "multi-panel result"],
+    "forms": ["dot-range", "box-plus-points", "violin-plus-points"],
+    "panel_roles": ["primary evidence", "uncertainty", "boundary condition"],
+    "layout": "one dominant comparison panel; optional compact validation panel"
+  },
+  {
+    "id": "trend-context-validation",
+    "goals": ["trend"],
+    "families": ["quantitative plot", "multi-panel result"],
+    "forms": ["line-with-interval", "small-multiples"],
+    "panel_roles": ["context", "primary evidence", "validation"],
+    "layout": "shared time axis with aligned plot areas"
+  },
+  {
+    "id": "relationship-model-diagnostics",
+    "goals": ["relationship"],
+    "families": ["quantitative plot", "multi-panel result"],
+    "forms": ["scatter", "hexbin", "regression-diagnostics"],
+    "panel_roles": ["primary evidence", "model fit", "residual/boundary condition"],
+    "layout": "hero scatter with two smaller diagnostic panels"
+  },
+  {
+    "id": "composition-matrix",
+    "goals": ["composition"],
+    "families": ["quantitative plot", "multi-panel result"],
+    "forms": ["normalized-bar", "heatmap", "mosaic"],
+    "panel_roles": ["composition", "group comparison", "annotation"],
+    "layout": "aligned matrix or stacked comparison"
+  },
+  {
+    "id": "method-to-evidence",
+    "goals": ["process"],
+    "families": ["workflow/architecture", "multi-panel result"],
+    "forms": ["staged-flow", "architecture", "validation-plots"],
+    "panel_roles": ["process", "primary evidence", "validation"],
+    "layout": "workflow on top or left; quantitative evidence below or right"
+  },
+  {
+    "id": "mechanism-plus-validation",
+    "goals": ["mechanism"],
+    "families": ["mechanism schematic", "graphical abstract", "multi-panel result"],
+    "forms": ["entity-interaction", "state-transition", "evidence-panels"],
+    "panel_roles": ["mechanism", "supporting evidence", "boundary condition"],
+    "layout": "clear causal/hypothesis path paired with validation"
+  },
+  {
+    "id": "spatial-plus-quantification",
+    "goals": ["spatial"],
+    "families": ["multi-panel result"],
+    "forms": ["registered-image", "roi-overlay", "summary-plot"],
+    "panel_roles": ["representative evidence", "segmentation/ROI", "quantification"],
+    "layout": "image hero with aligned quantitative summary"
+  }
+]

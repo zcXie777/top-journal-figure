@@ -1,0 +1,82 @@
+{
+  "core_claim": "A staged single-cell workflow can connect sample processing to interpretable cell-state, marker, and composition summaries.",
+  "audience": "Researchers evaluating a double-column manuscript figure demonstration",
+  "selection": {
+    "mode": "explicit_auto_bypass",
+    "chosen_type": "method-to-evidence multi-panel: staged workflow + embedding + heatmap + normalized stacked bars",
+    "candidates": [
+      "staged workflow only",
+      "method-to-evidence multi-panel",
+      "graphical abstract"
+    ],
+    "reason": "Historical demonstration generated after the user delegated the test composition to the skill."
+  },
+  "evidence": [
+    {
+      "source": "synthetic_data.csv",
+      "status": "illustrative"
+    },
+    {
+      "source": "workflow labels authored for this demonstration",
+      "status": "illustrative"
+    }
+  ],
+  "comparison": "Illustrative control-versus-treatment composition; no inferential claim or statistical test.",
+  "uncertainty": "Six simulated donors per group; no confidence intervals because the panel demonstrates composition layout only.",
+  "panels": [
+    {
+      "id": "A",
+      "role": "process",
+      "form": "staged-flow",
+      "claim": "The reading order from sample to interpretation is explicit."
+    },
+    {
+      "id": "B",
+      "role": "primary evidence",
+      "form": "embedding",
+      "claim": "Simulated cells form five visually distinct illustrative states."
+    },
+    {
+      "id": "C",
+      "role": "validation",
+      "form": "heatmap",
+      "claim": "Illustrative lineage markers distinguish the simulated states."
+    },
+    {
+      "id": "D",
+      "role": "composition",
+      "form": "normalized-stacked-bars",
+      "claim": "Synthetic donor-level composition can be compared without implying significance."
+    }
+  ],
+  "reading_order": "A workflow, then B embedding, C marker validation, and D donor-level composition.",
+  "palette": {
+    "ink": "#1D264C",
+    "neutral": "#D9DDE4",
+    "primary": "#1D264C",
+    "secondary": "#733E71",
+    "support_1": "#C7765A",
+    "support_2": "#77A893",
+    "support_3": "#D2A33D"
+  },
+  "output": {
+    "width_mm": 178,
+    "formats": [
+      "svg",
+      "pdf",
+      "png"
+    ],
+    "editable": true,
+    "backend": "python",
+    "target_journal": "generic high-impact journal"
+  },
+  "integrity_risks": [
+    "All values are synthetic and must not be interpreted as experimental evidence.",
+    "Embedding distance is illustrative and is not a calibrated biological distance.",
+    "No statistical significance is implied by the composition panel."
+  ],
+  "provenance": [
+    "Generated deterministically with seed 20261020.",
+    "Style precedent: PubCNS case 96 (Nature Nanotechnology); no artwork traced or copied."
+  ]
+}

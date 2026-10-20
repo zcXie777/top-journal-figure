@@ -1,0 +1,22 @@
+{
+  "ink": "#1D264C",
+  "neutral": "#D9DDE4",
+  "primary": "#1D264C",
+  "secondary": "#733E71",
+  "support_1": "#C7765A",
+  "support_2": "#77A893",
+  "support_3": "#D2A33D",
+  "semantic_mapping": {
+    "T cell": "#1D264C",
+    "B cell": "#733E71",
+    "Myeloid": "#C7765A",
+    "Stromal": "#77A893",
+    "Epithelial": "#D2A33D"
+  },
+  "corpus_precedent": {
+    "stable_id": "wechat:2247486705:1",
+    "sequence": 96,
+    "journal": "Nature Nanotechnology",
+    "use": "functional contrast and restrained visual weight; artwork not copied"
+  }
+}

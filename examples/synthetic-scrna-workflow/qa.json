@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "final_width_mm": 178,
+  "final_height_mm": 165,
+  "minimum_text_pt": 7.0,
+  "minimum_text_exemption": null,
+  "checks": {
+    "deterministic_seed": true,
+    "synthetic_data_disclosed_in_figure": true,
+    "vector_master": true,
+    "editable_text_in_svg": true,
+    "panel_reading_order": "pass",
+    "semantic_color_consistency": "pass",
+    "redundant_shape_encoding_in_embedding": "pass",
+    "no_statistical_overclaim": "pass",
+    "clipping_overlap": "pass_after_full-resolution_render_review",
+    "grayscale_and_contrast": "manual review recommended before submission"
+  }
+}

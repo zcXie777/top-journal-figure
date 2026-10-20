@@ -1,0 +1,48 @@
+{
+  "core_claim": "Treatment A reduces the measured response relative to control while preserving the observed replicate structure.",
+  "audience": "Domain researchers reading a two-column manuscript",
+  "selection": {
+    "mode": "user_confirmed",
+    "chosen_type": "box-plus-points",
+    "candidates": ["box-plus-points", "raincloud", "violin-plus-points"],
+    "reason": "Independent groups with biological replicates that should remain visible."
+  },
+  "evidence": [
+    {
+      "source": "example.csv",
+      "status": "observed"
+    }
+  ],
+  "panels": [
+    {
+      "id": "A",
+      "role": "primary evidence",
+      "form": "box-plus-points",
+      "claim": "The treatment distribution is shifted relative to control.",
+      "data_mapping": {
+        "x": "condition",
+        "y": "response",
+        "unit": "biological replicate"
+      }
+    }
+  ],
+  "palette": {
+    "ink": "#222222",
+    "neutral": "#B8BDC5",
+    "primary": "#3B6FB6",
+    "secondary": "#D97A45"
+  },
+  "output": {
+    "width_mm": 178,
+    "formats": ["svg", "pdf", "png"],
+    "editable": true,
+    "backend": "python",
+    "target_journal": "generic high-impact journal"
+  },
+  "integrity_risks": [
+    "Do not imply significance without a supplied statistical result."
+  ],
+  "provenance": [
+    "Synthetic example specification; no real scientific values."
+  ]
+}

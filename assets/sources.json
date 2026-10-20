@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "pubcns-wechat-colors",
+      "kind": "wechat_album",
+      "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU0ODY3Njg5NA%3D%3D&action=getalbum&album_id=4505958088352628740",
+      "minimum_items": 122,
+      "usage": "metadata and derived visual features; do not redistribute source artwork"
+    }
+  ]
+}

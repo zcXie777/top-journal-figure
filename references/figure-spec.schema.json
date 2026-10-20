@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Top Journal Figure Specification",
+  "type": "object",
+  "required": ["core_claim", "selection", "evidence", "panels", "palette", "output"],
+  "properties": {
+    "core_claim": {"type": "string", "minLength": 1},
+    "audience": {"type": "string"},
+    "selection": {
+      "type": "object",
+      "required": ["mode", "chosen_type"],
+      "properties": {
+        "mode": {"enum": ["user_confirmed", "user_specified", "explicit_auto_bypass"]},
+        "chosen_type": {"type": "string", "minLength": 1},
+        "candidates": {"type": "array", "items": {"type": "string"}},
+        "reason": {"type": "string"}
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["source", "status"],
+        "properties": {
+          "source": {"type": "string"},
+          "status": {"enum": ["observed", "derived", "modelled", "assumed", "illustrative"]}
+        }
+      }
+    },
+    "panels": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "role", "form"],
+        "properties": {
+          "id": {"type": "string"},
+          "role": {"type": "string"},
+          "form": {"type": "string"},
+          "claim": {"type": "string"},
+          "data_mapping": {"type": "object"}
+        }
+      }
+    },
+    "palette": {
+      "type": "object",
+      "required": ["ink", "neutral", "primary"],
+      "additionalProperties": {"type": "string", "pattern": "^#[0-9A-Fa-f]{6}$"}
+    },
+    "output": {
+      "type": "object",
+      "required": ["width_mm", "formats", "editable"],
+      "properties": {
+        "width_mm": {"type": "number", "exclusiveMinimum": 0},
+        "formats": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+        "editable": {"type": "boolean"},
+        "backend": {"enum": ["python", "r", "svg", "drawio", "other"]},
+        "target_journal": {"type": "string"}
+      }
+    },
+    "integrity_risks": {"type": "array", "items": {"type": "string"}},
+    "provenance": {"type": "array", "items": {"type": "string"}}
+  }
+}
