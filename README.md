@@ -1,4 +1,4 @@
-# Top Journal Figure
+# Top Journal Figure-Skill
 
 **From evidence to a publication-ready figure—not just a palette picker, but a
 scientific figure decision system.**
