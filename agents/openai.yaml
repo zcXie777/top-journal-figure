@@ -1,4 +1,4 @@
 interface:
   display_name: "Top Journal Figure"
-  short_description: "Generate evidence-first, publication-grade scientific figures"
+  short_description: "Evidence-first figures grounded in 122 top-journal cases"
   default_prompt: "Use $top-journal-figure to turn my data or scientific idea into a publication-ready, editable figure."

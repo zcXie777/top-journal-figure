@@ -1,11 +1,11 @@
 ---
 name: top-journal-figure
-description: Create, redesign, and audit publication-grade scientific plots, multi-panel figures, workflows, mechanisms, and graphical abstracts using evidence-first figure contracts, corpus-derived top-journal visual patterns, editable outputs, and rendered quality checks. Use for manuscript figures and scientific illustrations; not for decorative art or unsupported data generation.
+description: Create, redesign, and audit publication-grade scientific figures through a selection-first, evidence-first workflow grounded in a maintained 122-case PubCNS top-journal style corpus and informed by audited open-source figure workflows and public benchmarks. Produces editable, reproducible plots, multi-panel figures, workflows, mechanisms, and graphical abstracts with rendered QA. Use for manuscript figures and scientific illustrations; not for decorative art or unsupported data generation.
 ---
 
 # Top Journal Figure
 
-Turn a scientific claim and its evidence into a clear, editable, reproducible figure. Style follows the evidence architecture; never use aesthetics to hide uncertainty or compensate for an unsupported claim.
+Turn a scientific claim and its evidence into a clear, editable, reproducible figure. This is a figure decision system—not merely a palette library. It combines a 122-case PubCNS visual-precedent corpus, audited open-source workflow ideas, public evaluation benchmarks, and an original evidence-to-render pipeline. Style follows the evidence architecture; never use aesthetics to hide uncertainty or compensate for an unsupported claim.
 
 ## Start with a figure-type selection gate
 
